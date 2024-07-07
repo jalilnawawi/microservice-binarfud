@@ -1,0 +1,4 @@
+
+
+java:S3655 "fCall "orderDetailOptional.isPresent()" or "!orderDetailOptional.isEmpty()" before accessing the value.(®ğØúûÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(·°Ü«

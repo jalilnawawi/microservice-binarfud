@@ -1,0 +1,9 @@
+
+f
+java:S3655\"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¹Ê‚å
+`
+java:S13014"KReplace this "switch" statement by "if" statements to increase readability.(¶„æ
+y
+java:S1128"^Remove this unused import 'org.springframework.security.authentication.AuthenticationManager'.(ðŽþ–þÿÿÿÿ
+B
+java:S1068"'Remove this unused "log" private field.(¦æøŸøÿÿÿÿ

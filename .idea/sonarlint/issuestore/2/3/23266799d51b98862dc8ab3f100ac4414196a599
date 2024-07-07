@@ -1,0 +1,7 @@
+
+k
+java:S36559"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ì­Ë…ýÿÿÿÿ
+B
+java:S22019"'The return value of "get" must be used.(Ì­Ë…ýÿÿÿÿ
+`
+java:S1301I"KReplace this "switch" statement by "if" statements to increase readability.(¶„æ
